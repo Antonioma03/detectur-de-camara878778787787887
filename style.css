@@ -1,0 +1,10 @@
+#cantidad,#estatus{
+    white-space: pre-line;
+}
+canvas{
+    border: 11px;
+    border-color: rgb(0, 255, 85);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(70, 107, 122);
+
+}
